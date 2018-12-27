@@ -6,6 +6,8 @@ layout: default
 
 # {{page.title}}
 
+2018-12-27
+
 [Original Source](https://www.bloomberg.com/news/articles/2018-12-26/a-concise-history-of-presidential-commentary-on-the-stock-market?srnd=premium)
 
 It’s rare the ***executive branch 政府部门*** weighs in on equity valuations. But sometimes a president just can’t resist.
