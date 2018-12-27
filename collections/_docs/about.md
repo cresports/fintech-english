@@ -6,6 +6,12 @@ layout: default
 
 # ${{title}}
 
+## words table
+word | introduction
+  --- | --- 
+  executive branch | 政府部门
+  lob at | 还击
+
 It’s rare the executive branch weighs in on equity valuations. But sometimes a president just can’t resist.
 
 Take Tuesday, when Donald Trump said American shares are giving investors “a tremendous opportunity to buy.” Reasonable people can differ on whether it mattered, it’s hardly the first time he’s mentioned stocks, and Trump gets a fair amount of blame lobbed at him for the sell-off as well. Whatever the case: he said it, and the S&P 500 shot up 5 percent after four straight days of losses and the worst Christmas Eve trading session ever.
