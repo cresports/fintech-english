@@ -10,6 +10,7 @@ collections:
 
 # Jekyll Folders
 # source: ./themes/km/
+baseurl: /fintech-english
 collections_dir: ./collections
 layouts_dir: ./themes/km/layout
 includes_dir: ./themes/km/layout
