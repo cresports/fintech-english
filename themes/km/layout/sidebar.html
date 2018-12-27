@@ -1,7 +1,7 @@
 <div class="sidebar">
   <ul class="sidebar-links">
     <li>
-      <a href="/fintech-english" class="sidebar-link{% if page.url == '/' %} active{% endif %}">Home</a>
+      <a href="{{site.baseurl}}" class="sidebar-link{% if page.url == '/' %} active{% endif %}">Home</a>
     <!--  -->
     <li>
       {% assign folders = site.collections | sort: 'order' %}
@@ -13,7 +13,7 @@
           {% assign docs = folder.docs | sort: 'chapter' %}
           {% for doc in docs %}
           <li>
-            <a href="/fintech-english{{doc.url}}" class="sidebar-link{% if page.url == doc.url %} active{% endif %}">{{ doc.title }}</a>
+            <a href="{{doc.url | relative_url}}" class="sidebar-link{% if page.url == doc.url %} active{% endif %}">{{ doc.title }}</a>
           {% endfor %}
       </div>
         {% endif %}
