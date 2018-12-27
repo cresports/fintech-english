@@ -1,16 +1,11 @@
 # Variables of template's `site.*` scope
-title: Awesome Wiki
+title: Fintech English
 
 # Articles
 collections:
   docs:
-    title: Documentation
+    title: Blogs
     order: 1
-    output: true
-  api:
-    title: API
-    order: 2
-    type: pages
     output: true
 
 # Jekyll Folders
