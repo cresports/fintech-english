@@ -4,7 +4,7 @@ chapter: 1
 layout: default
 ---
 
-# {{title}}
+# {{page.title}}
 
 ## words table
 
