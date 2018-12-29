@@ -6,7 +6,7 @@ layout: default
 
 # {{page.title}}
 
-The 2018 ***casualty 伤亡，事故*** list in markets is long. ***Hedge funds 对冲基金***, Apple and Amazon’s trillion-dollar price tags, trading results everywhere. Not even Christmas was ***spared 幸免*** the ***wrath 愤怒*** of ***cascading stocks 级联股票***. It has felt ***unprecedented 史无前例的***, like ***Armageddon 世界末日***, or maybe even the robot ***apocalypse 启示***. It wasn’t.
+The 2018 ***casualty 伤亡，事故*** list in markets is long. ***Hedge funds 对冲基金***, Apple and Amazon’s trillion-dollar price tags, trading results everywhere. Not even Christmas was ***spared 幸免*** the ***wrath 愤怒*** of ***cascading 下落的*** stocks. It has felt ***unprecedented 史无前例的***, like ***Armageddon 世界末日***, or maybe even the robot ***apocalypse 启示***. It wasn’t.
 
 While any 20 percent sell-off hurts, the one happening now is far from unheard of in terms of depth or ***velocity 速度***. Over the past 100 years, there are almost too many examples to count of stocks ***tumbling 翻滚*** with ***comparable force 相当的力度***.
 
