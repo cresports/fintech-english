@@ -1,5 +1,5 @@
 ---
-title: Humans, Machines and Markets\: Stocks Going Crazy Is Nothing New
+title: Humans, Machines and Markets -- Stocks Going Crazy Is Nothing New
 chapter: 2
 layout: default
 ---
