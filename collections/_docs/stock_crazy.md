@@ -1,6 +1,6 @@
 ---
-title: Humans, Machines and Markets: Stocks Going Crazy Is Nothing New
-chapter: 3
+title: ‘Completely Bizarre’ Stock Moves Leave Traders Scratching Heads
+chapter: 2
 layout: default
 ---
 
